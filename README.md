@@ -118,6 +118,9 @@ This project supports data-driven decision-making for climate policy and buildin
 • Excel
 
 Author
+
 Ryan Kelly
+
 Data Analytics Student | Northeastern University
+
 Focused on sustainability analytics, building performance, and using data to support climate policy and operational decision-making.
